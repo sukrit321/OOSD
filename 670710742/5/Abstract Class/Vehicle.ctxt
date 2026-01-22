@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=plateNo\ brand\ dailyRate
+comment1.target=Vehicle(java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getPlatNo()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=double\ getDailyRate()
+comment5.params=day
+comment5.target=double\ calcRentalCost(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
